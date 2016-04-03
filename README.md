@@ -58,6 +58,7 @@ Let's mingle
  # Let git know your identity with github
 
  git config --global user.email "you@email.com"
+
  git config --global user.name  "your name"
 
  # Some useful shortcuts
